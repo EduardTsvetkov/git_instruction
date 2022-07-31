@@ -39,19 +39,19 @@
 
 4. Команда **git commit** создать коммит (зафиксировать изменения).
 
-[Описание команды](https://git-scm.com/docs/git-commit)
+[Описание команды **commit**](https://git-scm.com/docs/git-commit)
 
 5. Команда **git log** выводит на экран истории всех коммитов с их хеш-кодами (журнал изменений).
 
-[Описание команды](https://git-scm.com/docs/git-log)
+[Описание команды **log**](https://git-scm.com/docs/git-log)
 
 6. Команда **git checkout** переход от одного коммита к другому, переключение между версиями.
 
-[Описание комманды](https://git-scm.com/docs/git-checkout
+[Описание комманды **checkout**](https://git-scm.com/docs/git-checkout)
 
 7. Команда **git diff** показывает разницу между текущим файлом и закоммиченным файлом (сохраненной в git версией файла).
 
-[Описание команды](https://git-scm.com/docs/git-diff)
+[Описание команды **diff**](https://git-scm.com/docs/git-diff)
 
 
 Будем добавлять описания комманд.
